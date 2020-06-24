@@ -1,0 +1,8 @@
+current directory: /home/max/Desktop/slate/vendor/bundle/ruby/2.7.0/gems/fast_blank-1.0.0/ext/fast_blank
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20200623-24709-c6nfku.rb extconf.rb
+mkmf.rb can't find header files for ruby at /usr/lib/ruby/include/ruby.h
+
+You might have to install separate package for the ruby development
+environment, ruby-dev or ruby-devel for example.
+
+extconf failed, exit code 1
